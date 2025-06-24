@@ -1,4 +1,4 @@
-# 👨‍💻 CropSight
+# CropSight
 
 🚀 **Transformamos ideias em soluções digitais de alto impacto**
 
