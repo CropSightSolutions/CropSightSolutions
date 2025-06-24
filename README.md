@@ -25,7 +25,7 @@ A **CropSight** é uma empresa de tecnologia especializada no desenvolvimento de
 
 > Plataforma desenvolvida para auxiliar produtores no controle de rebanhos leiteiros, com funcionalidades para cadastro de animais, coberturas, nascimentos e acompanhamento da produção de leite.
 
-**🔧 Tecnologias:** React Native • Firebase • TailwindCSS • TypeScript
+**🔧 Tecnologias:** React Native • Firebase • Javascript
 
 <div align="center">
   <img src="assets/ordermilk-1.png" width="300" alt="Dashboard OrderMilk" />
@@ -40,7 +40,7 @@ A **CropSight** é uma empresa de tecnologia especializada no desenvolvimento de
 
 > Solução para acompanhamento de indicadores ambientais, como emissões de carbono e métricas ESG, oferecendo painéis visuais para análise e tomada de decisão.
 
-**🔧 Tecnologias:** React Native • Firebase • Chart.js • Node.js
+**🔧 Tecnologias:** React Native • Firebase • Javascript
 
 <div align="center">
   <img src="assets/carbonsense-1.png" width="300" alt="Painel CarbonSense" />
@@ -99,7 +99,7 @@ A **CropSight** é uma empresa de tecnologia especializada no desenvolvimento de
 - **Tailwind CSS** – Design responsivo e eficiente  
 - **Firebase** – Backend em tempo real, hospedagem e autenticação  
 - **Node.js** – APIs escaláveis  
-- **TypeScript** – Código seguro e confiável
+- **TypeScript / Javascript** – Código seguro e confiável
 
 ---
 
