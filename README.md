@@ -26,7 +26,7 @@ A **CropSight** é especializada no desenvolvimento de soluções digitais sob m
 > O OrderMilk é uma plataforma desenvolvida para facilitar o controle e a gestão de rebanhos leiteiros. Focado na realidade de pequenas e médias propriedades rurais, o sistema ajuda no registro de animais, controle de coberturas, nascimentos, e produtividade leiteira.
 
 **🔧 Tecnologias utilizadas:**  
-React Native • Firebase • TailwindCSS • TypeScript
+React Native • Firebase • Javascript
 
 **🖼️ Prints do Projeto:**
 <div align="center">
@@ -43,7 +43,7 @@ React Native • Firebase • TailwindCSS • TypeScript
 > O CarbonSense é uma solução digital focada no monitoramento de indicadores ambientais. A plataforma permite que produtores e empresas acompanhem a emissão e captura de carbono, além de outros dados relacionados à sustentabilidade e ESG.
 
 **🔧 Tecnologias utilizadas:**  
-React • Firebase • Chart.js • TailwindCSS • Node.js
+React Native • Firebase • Javascript
 
 **🖼️ Prints do Projeto:**
 <div align="center">
@@ -59,7 +59,7 @@ React • Firebase • Chart.js • TailwindCSS • Node.js
 - **Tailwind CSS** – Estilização responsiva e elegante  
 - **Firebase** – Backend em tempo real e autenticação segura  
 - **Node.js** – APIs performáticas  
-- **TypeScript** – Código robusto com tipagem estática
+- **TypeScript/Javascript** – Código robusto com tipagem estática
 
 ---
 
