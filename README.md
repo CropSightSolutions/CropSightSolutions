@@ -64,7 +64,7 @@ A **CropSight** é uma empresa de tecnologia especializada no desenvolvimento de
 🔗 [https://cropsight.netlify.app](https://cropsight.netlify.app)
 
 <div align="center">
-  <img src="assets/cropsight-site.png" width="600" alt="Site CropSight" />
+  <img src="assets/CropSight/cropsight.png" width="600" alt="Site CropSight" />
 </div>
 
 ---
