@@ -1,8 +1,8 @@
-# CropSight
+# 👨‍💻 CropSight
 
 🚀 **Transformamos ideias em soluções digitais de alto impacto**
 
-A **CropSight** é especializada no desenvolvimento de soluções digitais sob medida. Unimos **design moderno**, **tecnologia de ponta** e **estratégia orientada a resultados** para impulsionar negócios no ambiente digital.
+A **CropSight** é uma empresa de tecnologia especializada no desenvolvimento de soluções digitais sob medida. Unimos design moderno, tecnologia de ponta e foco em resultados para impulsionar negócios no ambiente digital.
 
 ---
 
@@ -17,20 +17,18 @@ A **CropSight** é especializada no desenvolvimento de soluções digitais sob m
 
 ---
 
-## 📦 Projetos Desenvolvidos
+## 📱 Projetos Mobile
 
 ### 🐄 OrderMilk
 
 **Sistema de gestão para produção leiteira**
 
-> O OrderMilk é uma plataforma desenvolvida para facilitar o controle e a gestão de rebanhos leiteiros. Focado na realidade de pequenas e médias propriedades rurais, o sistema ajuda no registro de animais, controle de coberturas, nascimentos, e produtividade leiteira.
+> Plataforma desenvolvida para auxiliar produtores no controle de rebanhos leiteiros, com funcionalidades para cadastro de animais, coberturas, nascimentos e acompanhamento da produção de leite.
 
-**🔧 Tecnologias utilizadas:**  
-React Native • Firebase • Javascript
+**🔧 Tecnologias:** React Native • Firebase • TailwindCSS • TypeScript
 
-**🖼️ Prints do Projeto:**
 <div align="center">
-  <img src="assets/ordermilk-1.png" width="300" alt="Dashboard do OrderMilk" />
+  <img src="assets/ordermilk-1.png" width="300" alt="Dashboard OrderMilk" />
   <img src="assets/ordermilk-2.png" width="300" alt="Cadastro de animal" />
 </div>
 
@@ -38,34 +36,76 @@ React Native • Firebase • Javascript
 
 ### 🌱 CarbonSense
 
-**Plataforma de monitoramento de carbono e sustentabilidade**
+**Plataforma de monitoramento ambiental e sustentabilidade**
 
-> O CarbonSense é uma solução digital focada no monitoramento de indicadores ambientais. A plataforma permite que produtores e empresas acompanhem a emissão e captura de carbono, além de outros dados relacionados à sustentabilidade e ESG.
+> Solução para acompanhamento de indicadores ambientais, como emissões de carbono e métricas ESG, oferecendo painéis visuais para análise e tomada de decisão.
 
-**🔧 Tecnologias utilizadas:**  
-React Native • Firebase • Javascript
+**🔧 Tecnologias:** React Native • Firebase • Chart.js • Node.js
 
-**🖼️ Prints do Projeto:**
 <div align="center">
-  <img src="assets/carbonsense-1.png" width="300" alt="Painel de Indicadores Ambientais" />
-  <img src="assets/carbonsense-2.png" width="300" alt="Dashboard CarbonSense" />
+  <img src="assets/carbonsense-1.png" width="300" alt="Painel CarbonSense" />
+  <img src="assets/carbonsense-2.png" width="300" alt="Indicadores ambientais" />
+</div>
+
+---
+
+## 💻 Sites Desenvolvidos
+
+### 🌐 CropSight
+
+**Nosso site institucional**
+
+> Apresenta os serviços e diferenciais da nossa empresa, com foco em soluções digitais sob medida.
+
+🔗 [https://cropsight.netlify.app](https://cropsight.netlify.app)
+
+<div align="center">
+  <img src="assets/cropsight-site.png" width="600" alt="Site CropSight" />
+</div>
+
+---
+
+### 🚛 Grupo Rodomilho
+
+**Soluções em transporte, combustíveis e investimentos**
+
+> O Grupo Rodomilho é uma empresa familiar com quase cinco décadas de história nos setores de combustíveis, transporte especializado e investimentos imobiliários. Construída com base em confiança, qualidade e compromisso.
+
+🔗 [https://gruporodomilho.netlify.app](https://gruporodomilho.netlify.app)
+
+<div align="center">
+  <img src="assets/rodomilho-site.png" width="600" alt="Site Grupo Rodomilho" />
+</div>
+
+---
+
+### 🎨 Reveste Mais Tintas
+
+**Indústria mineira de tintas e revestimentos**
+
+> Fundada em 2013 pelas empreendedoras Patrícia Emiliane e Roberta Lívia, a Reveste Mais é referência em tintas acrílicas de alta qualidade. Com sede em Patos de Minas e filial em Tiros-MG, a empresa se destaca por seu atendimento diferenciado e inovação constante.
+
+🔗 [https://revestemaistintas.netlify.app](https://revestemaistintas.netlify.app)
+
+<div align="center">
+  <img src="assets/reveste-site.png" width="600" alt="Site Reveste Mais Tintas" />
 </div>
 
 ---
 
 ## 🧠 Nossos Diferenciais Técnicos
 
-- **React / React Native** – Interfaces web e mobile modernas  
-- **Tailwind CSS** – Estilização responsiva e elegante  
-- **Firebase** – Backend em tempo real e autenticação segura  
-- **Node.js** – APIs performáticas  
-- **TypeScript/Javascript** – Código robusto com tipagem estática
+- **React / React Native** – Interfaces modernas e performáticas  
+- **Tailwind CSS** – Design responsivo e eficiente  
+- **Firebase** – Backend em tempo real, hospedagem e autenticação  
+- **Node.js** – APIs escaláveis  
+- **TypeScript** – Código seguro e confiável
 
 ---
 
 ## 🏛️ Nossa História
 
-A **CropSight** nasceu com o propósito de entregar tecnologia acessível, eficiente e personalizada. Com uma equipe apaixonada e altamente qualificada, criamos soluções que não só funcionam — mas fazem a diferença para os nossos clientes.
+A **CropSight** nasceu com o propósito de entregar tecnologia acessível, eficiente e personalizada. Criamos soluções digitais que fazem a diferença na vida real dos nossos clientes, sempre com inovação, cuidado e excelência técnica.
 
 ---
 
@@ -88,9 +128,8 @@ A **CropSight** nasceu com o propósito de entregar tecnologia acessível, efici
 
 ## 🌐 Acesse nosso site
 
-🔗 [https://cropsight.netlify.app](https://cropsight.netlify.app)
-
-📩 contatocropsight@gmail.com
+🔗 [https://cropsight.netlify.app](https://cropsight.netlify.app)  
+📩 contato@cropsight.com
 
 ---
 
