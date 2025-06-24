@@ -2,99 +2,87 @@
 
 🚀 **Transformamos ideias em soluções digitais de alto impacto**
 
-A **CropSight** é uma empresa especializada no desenvolvimento de soluções digitais personalizadas, que unem **tecnologia moderna**, **design inteligente** e **foco em resultados reais** para o seu negócio. Atuamos em diversas áreas do desenvolvimento web e mobile com entregas de alta performance, sempre priorizando a experiência do usuário e a excelência técnica.
+A **CropSight** é especializada no desenvolvimento de soluções digitais sob medida. Unimos **design moderno**, **tecnologia de ponta** e **estratégia orientada a resultados** para impulsionar negócios no ambiente digital.
 
 ---
 
 ## 🌐 Nossos Serviços
 
 🔹 **Sites Institucionais**  
-Criação de sites profissionais que representam a identidade da sua empresa e convertem visitantes em clientes.
-
 🔹 **Aplicações Responsivas**  
-Interfaces adaptáveis a qualquer tela — do desktop ao smartphone — com design moderno e funcional.
-
 🔹 **Desenvolvimento Web**  
-Soluções web robustas com foco em performance, escalabilidade e usabilidade.
-
 🔹 **Sistemas Personalizados**  
-Automatizamos e otimizamos os processos do seu negócio com sistemas sob medida.
-
 🔹 **Dashboards e Analytics**  
-Painéis interativos com análise visual de dados para decisões estratégicas.
-
-🔹 **Plataformas Completas**  
-Desenvolvimento de plataformas escaláveis e multifuncionais para empresas de todos os portes.
+🔹 **Plataformas Completas**
 
 ---
 
-## 💡 Por que escolher a CropSight?
+## 📦 Projetos Desenvolvidos
 
-✔️ Equipe especializada em tecnologias modernas  
-✔️ Projetos entregues no prazo e dentro do orçamento  
-✔️ Suporte contínuo e manutenção garantida  
-✔️ Foco em resultados mensuráveis para o seu negócio  
+### 🐄 OrderMilk
+
+**Sistema de gestão para produção leiteira**
+
+> O OrderMilk é uma plataforma desenvolvida para facilitar o controle e a gestão de rebanhos leiteiros. Focado na realidade de pequenas e médias propriedades rurais, o sistema ajuda no registro de animais, controle de coberturas, nascimentos, e produtividade leiteira.
+
+**🔧 Tecnologias utilizadas:**  
+React Native • Firebase • TailwindCSS • TypeScript
+
+**🖼️ Prints do Projeto:**
+<div align="center">
+  <img src="assets/ordermilk-1.png" width="300" alt="Dashboard do OrderMilk" />
+  <img src="assets/ordermilk-2.png" width="300" alt="Cadastro de animal" />
+</div>
+
+---
+
+### 🌱 CarbonSense
+
+**Plataforma de monitoramento de carbono e sustentabilidade**
+
+> O CarbonSense é uma solução digital focada no monitoramento de indicadores ambientais. A plataforma permite que produtores e empresas acompanhem a emissão e captura de carbono, além de outros dados relacionados à sustentabilidade e ESG.
+
+**🔧 Tecnologias utilizadas:**  
+React • Firebase • Chart.js • TailwindCSS • Node.js
+
+**🖼️ Prints do Projeto:**
+<div align="center">
+  <img src="assets/carbonsense-1.png" width="300" alt="Painel de Indicadores Ambientais" />
+  <img src="assets/carbonsense-2.png" width="300" alt="Dashboard CarbonSense" />
+</div>
 
 ---
 
 ## 🧠 Nossos Diferenciais Técnicos
 
-- **React** – Interfaces modernas e reativas  
-- **React Native** – Aplicativos móveis multiplataforma  
-- **Tailwind CSS** – Estilização eficiente e responsiva  
-- **Firebase** – Backend escalável com autenticação e banco em tempo real  
-- **Node.js** – APIs e servidores performáticos com JavaScript  
-- **TypeScript** – Segurança de tipo e manutenibilidade no código
-
----
-
-## 📸 Projetos Desenvolvidos
-
-Veja alguns dos nossos trabalhos realizados com excelência:
-
-<div align="center">
-  <img src="caminho/para/print1.png" width="300" alt="Projeto 1" />
-  <img src="caminho/para/print2.png" width="300" alt="Projeto 2" />
-  <img src="caminho/para/print3.png" width="300" alt="Projeto 3" />
-</div>
-
-> 💡 Você pode substituir os caminhos acima pelos links reais das imagens hospedadas, ou utilizar imagens diretamente do repositório (ex: `/assets/projeto1.png`).
+- **React / React Native** – Interfaces web e mobile modernas  
+- **Tailwind CSS** – Estilização responsiva e elegante  
+- **Firebase** – Backend em tempo real e autenticação segura  
+- **Node.js** – APIs performáticas  
+- **TypeScript** – Código robusto com tipagem estática
 
 ---
 
 ## 🏛️ Nossa História
 
-A **CropSight** nasceu com o propósito de impulsionar a transformação digital de empresas por meio de soluções criativas, funcionais e inovadoras. Nosso time é formado por profissionais apaixonados por tecnologia, design e inovação.
-
-Atuamos com uma abordagem centrada no cliente, onde cada projeto é tratado com dedicação e excelência — da concepção à entrega final.
+A **CropSight** nasceu com o propósito de entregar tecnologia acessível, eficiente e personalizada. Com uma equipe apaixonada e altamente qualificada, criamos soluções que não só funcionam — mas fazem a diferença para os nossos clientes.
 
 ---
 
 ## 🎯 Missão, Visão e Valores
 
-**Missão**  
-Desenvolver soluções digitais inovadoras que transformem negócios e criem experiências memoráveis para os usuários.
-
-**Visão**  
-Ser referência nacional em desenvolvimento de soluções digitais personalizadas, reconhecida pela excelência técnica e satisfação dos clientes.
-
-**Valores**  
-✅ Inovação e criatividade  
-✅ Excelência técnica  
-✅ Compromisso com resultados  
-✅ Transparência e ética  
-✅ Foco no cliente  
+**Missão:** Desenvolver soluções digitais inovadoras que transformem negócios e criem experiências memoráveis.  
+**Visão:** Ser referência nacional em soluções digitais personalizadas.  
+**Valores:** Inovação • Excelência • Ética • Compromisso com resultados • Foco no cliente
 
 ---
 
 ## 🛠️ Como Trabalhamos
 
-Nosso processo é pautado por:
-
-1. **Planejamento detalhado** com levantamento de requisitos
-2. **Desenvolvimento ágil** com feedbacks contínuos
-3. **Testes rigorosos** para garantir funcionalidade e performance
-4. **Entrega e acompanhamento** para garantir resultados reais
+1. Planejamento estratégico  
+2. Desenvolvimento ágil  
+3. Testes e validação  
+4. Entrega e suporte contínuo
 
 ---
 
@@ -102,10 +90,9 @@ Nosso processo é pautado por:
 
 🔗 [https://cropsight.netlify.app](https://cropsight.netlify.app)
 
-📩 Entre em contato: contato@cropsight.com  
-📱 Ou nos siga para ver mais projetos!
+📩 contato@cropsight.com
 
 ---
 
-**✨ Obrigado por visitar nosso perfil!**  
-Estamos prontos para transformar o seu projeto em realidade. Vamos conversar?
+**✨ Obrigado por visitar nosso perfil no GitHub!**  
+Tem uma ideia? A gente transforma em código. Vamos conversar!
