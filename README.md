@@ -43,8 +43,20 @@ A **CropSight** é uma empresa de tecnologia especializada no desenvolvimento de
 **🔧 Tecnologias:** React Native • Firebase • Javascript
 
 <div align="center">
-  <img src="assets/carbonsense-1.png" width="300" alt="Painel CarbonSense" />
-  <img src="assets/carbonsense-2.png" width="300" alt="Indicadores ambientais" />
+  <img src="assets/cadastro.jpg" width="300" alt="Cadastro" />
+  <img src="assets/login.jpg" width="300" alt="Login" />
+  <img src="assets/redefinirsenha.jpg" width="300" alt="Redefinir Senha" />
+  <img src="assets/sidebar.jpg" width="300" alt="SideBar" />
+  <img src="assets/dashboard.jpg" width="300" alt="Dashboard" />
+  <img src="assets/novaemissao.jpg" width="300" alt="Nova Emissão" />
+  <img src="assets/emissoes.jpg" width="300" alt="Emissões" />
+  <img src="assets/metasereducoes.jpg" width="300" alt="Metas e Reduções" />
+  <img src="assets/novameta.jpg" width="300" alt="Nova Meta" />
+  <img src="assets/empresa.jpg" width="300" alt="Empresa" />
+  <img src="assets/compensacao.jpg" width="300" alt="Compensação" />
+  <img src="assets/historicocompensasao.jpg" width="300" alt="Histórico de Compensação" />
+  <img src="assets/propostainvestimento.jpg" width="300" alt="Proposta de Investimento" />
+  <img src="assets/config.jpg" width="300" alt="Configurações" />
 </div>
 
 ---
