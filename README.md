@@ -133,7 +133,7 @@ A **CropSight** nasceu com o propósito de entregar tecnologia acessível, efici
 ## 🌐 Acesse nosso site
 
 🔗 [https://cropsight.netlify.app](https://cropsight.netlify.app)  
-📩 contato@cropsight.com
+📩 contatocropsight@gmail.com
 
 ---
 
